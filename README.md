@@ -29,5 +29,6 @@ FORK THE REPOSITORY (Repo)
 2. ### DEPLOY ON RENDER
 
 1. If you don't have an account in RENDER, create one and deploy.
+ 
     <br>
-    <a href='https://dashboard.render.com/select-repo?type=web' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=render&logoColor=white'/></a>
+    <a href='https://dashboard.render.com/select-repo?type=web' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-green?style=for-the-badge&logo=render&logoColor=white'/></a>
