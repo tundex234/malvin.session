@@ -60,18 +60,18 @@ router.get('/', async (req, res) => {
 	
 				   let WASI_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃𝗞𝗜𝗡𝗚 𝗠𝗔𝗩𝗜𝗡 𝗠𝗗 SESSION IS 
+┃TUNDEX TECH MD SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 Malvin King 𖥘
+❶ || Creator = 𖥘 TUNDEX TECH 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z
+❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VajRmmoKwqSSnMXxt115
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❸ || Owner = https://t.me/malvinking2 
+❸ || Owner = https://t.me/tundex0000 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 Malvin King*
+©*2024-2099 tundex tech*
 _____________________________________
 	
 _Don't Forget To Give Star To My Repo_`
